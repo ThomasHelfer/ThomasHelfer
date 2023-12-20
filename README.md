@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Thomas Helfer, dedicated researcher at the crossroads of artificial intelligence, high-performance computation, and astrophysics. 
+I’m Thomas Helfer, dedicated researcher at the crossroads of artificial intelligence, high-performance computation, and astrophysics.  I am interested in how machine learning can be used to speed up partial differential equations.
 
 <!--
 **ThomasHelfer/ThomasHelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
